@@ -37,7 +37,7 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ## Deploy streamlit app
-[E-Commerce Data Dashboard Streamlit App](https://submission-dicoding-dataanalysis-e-commerce-7zdivt2k33oveuzbet.streamlit.app/)
+[E-Commerce Data Dashboard Streamlit App](https://vfzbypvfjyb5wut39x6fxb.streamlit.app/)
 
 ## Run steamlit app
 ```
